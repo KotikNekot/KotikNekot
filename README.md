@@ -1,13 +1,7 @@
-Привет меня зовут Саша.
-Мне 14 лет, сейчас я увлекаюсь серверами майнкрафт и изучаю Python и java.
-В основном, мои репозитории будут состоять из проектов на питоне :)
+- Alexander 15 y.o, senior python fullstack developer. UTC+3
 
-Языки на которых я пишу: python / java / 
-
-Мои цели 
-
-- [65%] Выучить python
-
+Gender - Trans(formator)
+LGBTQ+ - member 
 
 
 
